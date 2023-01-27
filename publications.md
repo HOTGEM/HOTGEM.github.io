@@ -5,7 +5,7 @@ show_sidebar: false
 ---
 
 1. <div style="text-align: justify">Niu C, Li M, Fan F, Wu W, Guo X, Lyu Q, Wang G. Noise Suppression with Similarity-based Self-Supervised Deep Learning. IEEE Transactions on Medical Imaging. 2022 Dec 21.</div>
-2.	<div style="text-align: justify">CWang G, Badal A, Jia X, Maltz JS, Mueller K, Myers KJ, Niu C, Vannier M, Yan P, Yu Z, Zeng R. Development of metaverse for intelligent healthcare. Nature Machine Intelligence. 2022 Nov 15:1-8.</div>
+2.	<div style="text-align: justify">Wang G, Badal A, Jia X, Maltz JS, Mueller K, Myers KJ, Niu C, Vannier M, Yan P, Yu Z, Zeng R. Development of metaverse for intelligent healthcare. Nature Machine Intelligence. 2022 Nov 15:1-8.</div>
 3.	<div style="text-align: justify">Li M, Lowe C, Butler A, Butler P, Wang G. Motion correction via locally linear embedding for helical photon-counting CT. In7th International Conference on Image Formation in X-Ray Computed Tomography 2022 Oct 17 (Vol. 12304, pp. 559-567). SPIE.</div>
 4.	<div style="text-align: justify">Li M, Bohacova J, Uher J, Cong W, Rubinstein J, Wang G. Motion correction for robot-based x-ray photon-counting CT at ultrahigh resolution. InDevelopments in X-Ray Tomography XIV 2022 Oct 14 (Vol. 12242, pp. 172-181). SPIE.</div>
 5.	<div style="text-align: justify">Cong W, Li M, Guo X, Wang G. Estimating optical parameters of biological tissues with photon-counting micro-CT. JOSA A. 2022 May 1;39(5):841-6.</div>
