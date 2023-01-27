@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Deep MAR
-tagline: Deep MAR
-email: deepcodemar@gmail.com
+title: HOTGEM
+tagline: HOTGEM
+email: medimgjprojects@gmail.com
 description: >
-  Constrained Disentanglement (CODE) Networks for CT Metal Artifact Reduction
+  Photon-counting X-ray and Optical Tomography for Preclinical Cancer Research
 baseurl: 
-url: https://deepcodemar.github.io
+url: https://HOTGEM.github.io
 permalink: pretty
 #favicon: /path/to/favicon.png
 # gh_sponsor: chrisrhymes
